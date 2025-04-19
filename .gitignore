@@ -1,0 +1,18 @@
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+
+# Ignore environment variables
+.env
+
+# Ignore virtual environments (if you use one)
+venv/
+.env/
+.venv/
+
+# Ignore Streamlit config cache
+.streamlit/
+
+# Ignore system-specific files
+.DS_Store
+Thumbs.db

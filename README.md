@@ -41,7 +41,7 @@ streamlit run app.py
 
 ## 📸 Screenshots
 
-![FocusFlow Chatbot Demo](FocusFlow_Demo.png)
+![FocusFlow Chatbot Demo](FocusFlow_Demo.PNG)
 
 
 This project is for educational and demonstration purposes. Please do not use your Gemini API key in production without proper security and compliance.
